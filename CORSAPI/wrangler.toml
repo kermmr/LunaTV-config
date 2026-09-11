@@ -1,0 +1,7 @@
+name = "lunatvconfig"    # 必须和控制台里已存在的Worker名字完全一致，否则会新建一个Worker
+main = "_worker.js"
+compatibility_date = "2025-09-11"
+
+[[kv_namespaces]]
+binding = "CONFIG_KV"
+id = "801f24783aad4cee9ea1a8d3ae90a46d"
